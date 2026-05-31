@@ -9,7 +9,7 @@ More about me, my writing, and my music: **[vthsa.in](https://vthsa.in)**
 ### Selected projects
 
 **[Song Analyzer](link)** · *TypeScript, Web Audio API, Python, Flask API, React*
-Detects musical key, tempo, and loudness from an uploaded track, in the browser. Learning about deploying MIR machine learning models on a real backend.
+Detects musical key, tempo, and loudness from an uploaded track, in the browser. Learning about deploying MIR machine learning models on a real backend. Working on v2 which is going to include more info about a song's mix, frequency spectrum, stereo info, dynamic range and more.
 
 **[Aami & The Mangrove](https://aamismangrove.in/)** · *TypeScript, PIXI.js*
 A web-based interactive fiction game with a custom scene engine, built for a graduate thesis. Runs anywhere, including mobile.
