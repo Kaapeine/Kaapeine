@@ -2,7 +2,7 @@
 
 I’m Shrivathsa M S, a Software Engineer currently living in Bangalore, India. I love working with computers and I've worked on web development, interactive games, and robotics. Outside of work, I make music on Ableton and play guitar.
 
-🌐 More about me, my writing, and my music: **[vthsa.in](https://vthsa.in)**
+More about me, my writing, and my music: **[vthsa.in](https://vthsa.in)**
 
 ---
 
@@ -14,7 +14,7 @@ Detects musical key, tempo, and loudness from an uploaded track, in the browser.
 **[Aami & The Mangrove](https://aamismangrove.in/)** · *TypeScript, PIXI.js*
 A web-based interactive fiction game with a custom scene engine, built for a graduate thesis. Runs anywhere, including mobile.
 
-**[WikiTree](https://github.com/Kaapeine/wikitree)** · *TypeScript, React*
+**[WikiTree](https://chromewebstore.google.com/detail/wikitree/gmepfbiaaamedihnliggicgbphigbcje?hl=en&pli=1)** · *TypeScript, React*
 A Chrome extension that visualizes your Wikipedia rabbit holes as an interactive tree.
 
 ---
@@ -27,7 +27,7 @@ and Go microservices. Before web, I worked on autonomy and motion-planning for d
 
 ### Stack
 `TypeScript` `JavaScript` `Go` · `Next.js` `React` `Node.js` `Express`
-`Tailwind` · `MongoDB` `Docker` · `Python` `ROS` `C++`
+`Tailwind` · `MongoDB` · `PostgreSQL` `Docker` · `Python` `ROS` `C++`
 
-📫 **[msshrivathsa@gmail.com] · [vthsa.in](https://vthsa.in) · [resume](https://vthsa.in/resume)**
+**[email](msshrivathsa@gmail.com) · [vthsa.in](https://vthsa.in) · [resume](https://vthsa.in/resume)**
 
