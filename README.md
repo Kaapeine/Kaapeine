@@ -1,6 +1,6 @@
-# Hi, I'm Kaapeine 👋
+# Hi, I'm Vathsa
 
-<!-- Add your intro here -->
+I’m Shrivathsa M S, a Software Engineer currently living in Bangalore, India. I love working with computers and I've worked on web development, interactive games and robotics. Outside of work, I make music on Ableton and play guitar.
 
 ## About Me
 
