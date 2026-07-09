@@ -23,8 +23,7 @@ A Chrome extension that visualizes your Wikipedia rabbit holes as an interactive
 
 I have around 4 years of software engineering experience. Most recently at **Solvendo**, on the
 flagship platform that streamlines India's bankruptcy-resolution process, working with Next.js, micro-frontends, auth,
-and Go microservices. Before web, I worked on autonomy and motion-planning for drones - a research project on agriculture drones at IISc and prior to that, visual SLAM and navigation for military applications at Newspace. I switched from robotics to software dev because I wanted a tighter loop between building something and watching real people use it.
-
+and Go microservices. Before web, I worked on autonomy and motion-planning for drones - a research project on agriculture drones at IISc and prior to that, visual SLAM and navigation for military applications at Newspace.
 ### Stack
 `TypeScript` `JavaScript` `Go` · `Next.js` `React` `Node.js` `Express`
 `Tailwind` · `MongoDB` · `PostgreSQL` `Docker` · `Python` `ROS` `C++`
